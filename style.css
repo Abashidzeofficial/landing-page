@@ -1,0 +1,378 @@
+/* *{
+    padding: 0px;
+    margin:0px;
+    border: px solid red;
+    width: 100%;
+} */
+body{
+   width: 100%;
+   background: linear-gradient(180deg, #FFFFFF 0%, #F0F1FF 100%);
+    /* height: 100vh; */
+    /* width:100%; */
+    
+    
+}
+ .main{
+    
+    margin-left: 16px;
+  
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 22px;
+    padding-bottom: 16px;
+    background-color: #FFFFFF; 
+ } 
+ .header{
+     display: flex;
+     align-items: center;
+ }
+
+ .firsttext{
+    color: #13183F;
+    height: 35px;
+    width: 89px;
+    font-family: "Plus Jakarta Sans";
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 35px;     
+ }
+ .buttonfirst{
+    height: 48px;
+    width: 140px;
+    border-radius: 28px;
+    background-color: #13183F;
+    margin-left: 65px;
+ }
+ .buttonfirst{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+ }
+
+ .buttonfirsttext{ 
+     color: #FFFFFF;
+     font-family:"Plus Jakarta Sans";
+     font-size: 16px;
+     font-weight: 600;
+     line-height: 15px;      
+ }
+ .maxsim{
+    display: flex;
+    font-family: "Plus Jakarta Sans";
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 50px; 
+    color:#13183F;
+    padding-top: 17px;
+    height: 101px;
+    width: 343px;
+    /* padding: 16px; */
+ }
+ .Maximizeskill,p{
+    font-family: "Plus Jakarta Sans";
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;  
+    color: #83869A;
+    padding-top: 26px;
+    /* height: 78px;
+    width: 343px;
+    padding: 16px; */
+ }
+ .buttonsecond{
+    background: linear-gradient(180deg, #FF6F48 0%, #F02AA6 100%);
+    border-radius: 31.5px;
+    height: 56px;
+    width: 167px;
+    border-radius: 31.5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column-reverse;
+    margin-top: 30px;
+ }
+ .buttonsecondtext{
+    /* height: 26px;
+    width: 92px; */
+    font-family: "Plus Jakarta Sans";
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 26px; 
+    color: white;     
+ }
+
+.imagebuttoninventar{
+   display: flex;
+   justify-content: center;
+   height: 301px;
+   width: 327px;
+}
+
+.maintwo{
+   background: linear-gradient(180deg, #FF6F48 0%, #F02AA6 100%);;
+   height: 120px;
+   width: 300px;
+   border-radius: 10px;
+   margin-left: 16px;
+}
+.checkbutton{
+   display: flex;
+   /* text-align: center; */
+   height: 64px;
+   /* width: 286px; */
+   padding-left: 28px;
+   padding-top: 24px;
+   font-family: "Plus Jakarta Sans";
+   font-size: 24px;
+   font-weight: 800;
+   line-height: 32px;
+   color: white;
+}
+.mainthree{
+   /* display: flex;
+   flex-direction: column;
+   align-content: space-between;
+   background-color:rosybrown;
+   border-radius: 10px;  
+   margin-top: 40px;  */
+}
+
+.anime{
+   /* display: flex; */
+   margin-top: 40px;
+   height: 259px;
+   width: 300px;
+   /* border:1px solid red; */
+   background-color: white;
+   border-radius: 10px;
+   padding-left: 28px;
+   box-shadow: 0px 25px 50px rgba(6, 22, 141, 0.0442381);
+
+}
+h2{
+ color:#F74780;
+ padding-top: 20px;
+ font-family: "Plus Jakarta Sans";
+ font-size: 18px;
+ font-weight: 700;
+ line-height: 28px;
+}
+h1{
+   display: flex;
+height: 25px;
+/* width: 68px; */
+/* left: 28px; */
+padding-top: 25px;
+font-family: "Plus Jakarta Sans";
+font-size: 20px;
+font-weight: 800;
+line-height: 25px;
+color: #13183F;
+}
+p{
+   height: 78px;
+   width: 286px;
+   font-family: "Plus Jakarta Sans";
+   font-size: 16px;
+   font-weight: 500;
+   line-height: 26px;
+   color: #83869A;   
+}
+.bottomsection{
+   height: 120px;
+   width: 340px;
+   left: 0px;
+   margin-top: 80px;
+   background-color: #13183F;
+}
+
+.bottomtext{
+/* height: 35px;
+width: 89px; */
+width: 100%;
+display: flex;
+padding-left: 16px;
+margin-top: 45px;
+font-family: "Plus Jakarta Sans";
+font-size: 28px;
+font-weight: 800;
+line-height: 35px;
+color: #FFFFFF;
+
+}
+.bottombutton { 
+height: 48px;
+width: 140px;
+margin-left: 180px;
+margin-top: -40px;
+background: linear-gradient(180deg, #4851FF 0%, #F02AA6 100%);
+border-radius: 28px;
+text-align: center;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.bottombuttontext{
+   /* height: 28px;
+   width: 92px; */
+   font-family: "Plus Jakarta Sans";
+   font-size: 16px;
+   font-weight: 700;
+   line-height: 28px;
+   color: #FFFFFF;
+}
+.bottomskiled{
+   display: flex;
+   justify-content: center;
+}
+
+.ficond{
+   display: flex;
+   margin-top: -290px;
+}
+
+   
+   @media screen and (max-width: 1400px) {
+      .imagebuttoninventar2{
+         display: none;
+      }
+   }
+   @media screen and (min-width: 1400px) {
+      .imagesecond{
+         display: none;
+      }
+   }
+
+   @media screen and (max-width: 767px) {
+      .imagesecond{
+         display: none;
+      }
+   }
+
+  
+
+@media only screen and (min-width: 768px) {
+   .mainthree {
+     display: grid;
+     grid-template-columns: repeat(2,360px);
+     grid-template-rows: repeat(3,300px);
+     margin-left: 10px;
+   }
+ } 
+ @media only screen and (min-width: 768px) {
+    .maintwo {
+      height: 259px;
+      width: 339px;
+      margin-left: -5px;
+      margin-top: 41px;
+      border-radius: 10px;  
+    }
+ }
+
+ @media only screen and (min-width: 768px) {
+    .bottomsection{
+       width: 850px;
+       margin-left: -50px;
+       display: flex;
+       justify-content: space-between;
+    }
+ }
+
+ @media only screen and (min-width: 768px) {
+   
+   
+   .bottombutton {
+      margin-top:40px;
+      margin-right: 80px;
+   }
+   .bottomskiled{
+      margin-left: 50px;
+   }
+   
+
+   .imagebuttoninventar{
+      display: none;
+   }
+   .imagesecond{
+      height: 640px;
+      width: 640.71435546875px;
+      margin-left: 340px;
+      margin-top: -495.130859375px;
+      
+   }
+   .Maximizeskill{
+      margin-left:16px;
+   }
+   .header{
+      margin-left:16px;
+   }
+   .buttonsecond{
+      display: flex;
+      margin-left:16px;
+      margin-top:80px;
+   }
+   .buttonfirst{
+      display: flex;
+      margin-left:440px ;
+   }
+   /* main{
+      margin-left:60px;
+      margin-right: 60px;
+   } */
+   .mainthree{
+      height: 999px;
+      width: 768px;
+      left: 0px;
+      top: 641px;
+   }
+ }
+ @media only screen and (min-width: 1440px) {
+   
+     .imagesecond{
+        display: none;
+     }
+   .imagebuttoninventar2{
+      height: 936.91650390625px;
+      width: 991.630859375px;
+      margin-left: 684px;
+      margin-top: -646.130859375px;
+   }
+   .mainthree {
+      display: grid;
+      grid-template-columns: repeat(3,360px);
+      grid-template-rows: repeat(2,300px);
+      margin-left: 165px;
+    }
+    .Maximizeskill{
+      margin-left:165px;
+   }
+   .buttonsecond{
+      display: flex;
+      margin-left:165px;
+      margin-top:80px;
+   }
+   .bottomsection{
+      width: 1940px;
+      margin-left: -50px;
+      display: flex;
+      justify-content: space-between;
+   }
+   .bottombutton{
+      display: flex;
+      margin-right: 665px;
+   }
+   .bottomskiled{
+      display: flex;
+      margin-left: 195px;
+   }
+   .firsttext{
+      display: flex;
+      margin-left: 149px;
+   }
+   .buttonfirst{
+      display: flex;
+      margin-left:800px ;
+   }
+} 
+
+
